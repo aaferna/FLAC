@@ -1,6 +1,6 @@
 # ¿Qué es FLAC?
 
-El concepto "FLAC" (Fácil, Limpio, Actualizable, Comentable) representa una serie de características deseables en un framework o tecnología que contribuyen a la eficiencia y calidad en el desarrollo de software.
+La metodologia "FLAC" (Fácil, Limpio, Actualizable, Comentable) representa una serie de características deseables en un framework o tecnología que contribuyen a la eficiencia y calidad en el desarrollo de software.
 
 
 ## Rendimiento y Experiencia del Usuario
@@ -10,7 +10,7 @@ En términos de rendimiento, es crucial que las herramientas de desarrollo no se
 
 ## ¿Qué es FLAC-DS?
 
-FLAC-DS es un concepto que suma dos aspectos fundamentales en el desarrollo de software: la documentación efectiva y la seguridad robusta. Este framework se ha diseñado para proporcionar un entorno de desarrollo en el cual la claridad, la trazabilidad y la seguridad son prioridades centrales.
+FLAC-DS suma dos aspectos fundamentales en el desarrollo de software: la documentación efectiva y la seguridad robusta. Este framework se ha diseñado para proporcionar un entorno de desarrollo en el cual la claridad, la trazabilidad y la seguridad son prioridades centrales.
 
 
 #### Documentable
@@ -26,7 +26,7 @@ La "D" en FLAC-DS se refiere a "Documentable". Uno de los desafíos más comunes
 La "S" en FLAC-DS se refiere a "Seguro". La seguridad es un aspecto crucial en cualquier aplicación moderna. FLAC-DS se enfoca en proporcionar un entorno de desarrollo que promueva prácticas de codificación seguras y aliente la identificación y mitigación temprana de vulnerabilidades.
 
 - Prácticas de Codificación Segura: FLAC-DS promueve las mejores prácticas de codificación segura. Esto incluye el uso de validación de entradas, el manejo adecuado de datos sensibles y la protección contra ataques comunes como inyecciones SQL y cross-site scripting (XSS).
-- Evaluación Automatizada de Vulnerabilidades: El ~~framework~~ concepto integra herramientas de análisis estático y dinámico de código para identificar posibles vulnerabilidades. Esto ayuda a los desarrolladores a detectar problemas de seguridad durante el proceso de desarrollo, en lugar de enfrentarlos en etapas posteriores.
+- Evaluación Automatizada de Vulnerabilidades: Se integra herramientas de análisis estático y dinámico de código para identificar posibles vulnerabilidades. Esto ayuda a los desarrolladores a detectar problemas de seguridad durante el proceso de desarrollo, en lugar de enfrentarlos en etapas posteriores.
 
 
 ## Express y Vue.js vs FLAC
@@ -83,7 +83,7 @@ La separación en repositorios fomenta la creación de servicios modulares y enf
 
 #### Escalabilidad y Optimización de Recursos
 
-Cuando se trata de escalabilidad y rendimiento, la arquitectura de microservicios en repositorios separados permite escalar y asignar recursos según las necesidades de cada servicio individual. Esto se relaciona con la eficiencia y la optimización, conceptos clave en la filosofía FLAC y FLAC-DS, donde se busca desarrollar aplicaciones eficientes y optimizadas.
+Cuando se trata de escalabilidad y rendimiento, la arquitectura de microservicios en repositorios separados permite escalar y asignar recursos según las necesidades de cada servicio individual. Esto se relaciona con la eficiencia y la optimización, conceptos clave en la metodologia FLAC y FLAC-DS, donde se busca desarrollar aplicaciones eficientes y optimizadas.
 
 
 #### Integración Continua y Despliegue Continuo (CI/CD)
