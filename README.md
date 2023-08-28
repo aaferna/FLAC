@@ -1,4 +1,4 @@
-**¿Qué es FLAC?**
+# ¿Qué es FLAC?
 
 El concepto "FLAC" (Fácil, Limpio, Actualizable, Comentable) representa una serie de características deseables en un framework o tecnología que contribuyen a la eficiencia y calidad en el desarrollo de software.
 
