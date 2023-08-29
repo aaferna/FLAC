@@ -35,7 +35,7 @@ El equipo de Control de Calidad (QA) es esencial en el proceso de desarrollo baj
 
 ## Contacto
 
-Si tienes preguntas o comentarios, puedes contactarnos a través de [correo electrónico] o [redes sociales].
+Si tienes preguntas o comentarios, puedes contactarnos a través de [correo electrónico] o [LinkedIn].
 
 ¡Gracias por explorar la metodología FLAC y cómo QA juega un papel esencial en el desarrollo de software de alta calidad!
 
