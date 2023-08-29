@@ -1,5 +1,3 @@
-# Metodología FLAC y el Papel de QA en el Desarrollo de Software
-
 Bienvenidos al repositorio que presenta la metodología FLAC y su extensión FLAC-DS. En este documento, exploraremos cómo esta metodología y enfoque contribuyen a un desarrollo de software eficiente, limpio y de alta calidad, y cómo el equipo de Control de Calidad (QA) desempeña un papel esencial en este proceso.
 
 ## Metodología FLAC y FLAC-DS
